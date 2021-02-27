@@ -1,0 +1,4 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+FICHIER		TAR	72	nouvelle taille enregistrement : 72
+FICHIER	Texte	RUB+		Texte est une nouvelle rubrique
+FICHIER	Ordre	RUB+		Ordre est une nouvelle rubrique
